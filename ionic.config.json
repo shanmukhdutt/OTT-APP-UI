@@ -1,0 +1,7 @@
+{
+  "name": "netflixui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
